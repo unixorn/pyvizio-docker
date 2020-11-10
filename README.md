@@ -1,2 +1,3 @@
 # pyvizio-docker
-pyvisio in a docker container
+
+`pyvisio` in a whalebrew-compatible docker container.
